@@ -2,6 +2,8 @@
 
 안녕하세요 BTS 챗봇을 간단히 실습했습니다.
 
+![deer_PNG10186](https://user-images.githubusercontent.com/83766988/118125537-16464300-b432-11eb-8ab5-4182bce6f72a.png)
+
 # 하나
 ## 둘
 ### 셋
